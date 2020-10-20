@@ -39,3 +39,4 @@ $RECYCLE.BIN/
 .vscode/*
 !.vscode/extensions.json
 
+/.pmdCache
