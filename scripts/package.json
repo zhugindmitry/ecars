@@ -14,7 +14,7 @@
         "haikunator": "^2.1.2",
         "lookpath": "^1.1.0",
         "semver": "^7.3.2",
-        "shelljs": "^0.8.4",
+        "shelljs": "^0.8.5",
         "wrap-ansi": "^7.0.0"
     }
 }
